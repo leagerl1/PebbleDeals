@@ -1,0 +1,21 @@
+{
+    "uuid": "28f002b2-4b52-4153-8cff-a510349d389d",
+    "resources": {
+        "media": []
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "eagerleavittlu@gmail.com",
+    "shortName": "Message",
+    "longName": "Message",
+    "watchapp": {
+        "watchface": false
+    },
+    "versionCode": 1,
+    "appKeys": {
+        "status": 0,
+        "message": 1
+    },
+    "versionLabel": "1.0"
+}
