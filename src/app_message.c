@@ -1,5 +1,5 @@
 #include <pebble.h>
-
+  
 Window *window;	
 	
 // Key values for AppMessage Dictionary
@@ -62,7 +62,7 @@ void deinit(void) {
 }
 
 int main( void ) {
-	init();
-	app_event_loop();
-	deinit();
+    init();
+	  app_event_loop();
+	  deinit();  
 }
